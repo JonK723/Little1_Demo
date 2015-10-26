@@ -8,4 +8,6 @@ Custom "OBJ" file reader
 
 Lorentz attractor particle system
 
-
+### Screen Cap (edited) of demo
+---------------------------
+https://drive.google.com/open?id=0BzGe_Xsp7j4tVFdwd3diY0JzYzg
